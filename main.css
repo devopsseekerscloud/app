@@ -1,5 +1,22 @@
-div{/*element selector*/
-    width: 100px;
-    height: 100px;
-    background-color: red;
+.box{
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.b1{
+    background-image: url("https://www.scubadiving.com/sites/scubadiving.com/files/styles/opengraph_1_91x1/public/images/2021/05/divers-mexico-annie-crawley.jpg?itok=mgbLwXf7");
+}
+.b2{
+    background-image: url("https://amp.insurancejournal.com/app/uploads/2020/02/Screen-Shot-2020-02-07-at-10.28.15-AM-580x331.png");
+}
+.b3{
+    background-image: url("https://84c07820aaf966a515c1-fd98afb146978bdda2842b3815b05752.ssl.cf1.rackcdn.com/DeepDiver-Gallery-He-OrbMdjEy.jpg");
+}
+.b4{
+    background-image: url("https://www.fao.org/images/devforestslibraries/default-album/forests.jpg?sfvrsn=2dd96b96_11");
+}
+.b5{
+    background-image: url("https://images.theconversation.com/files/447820/original/file-20220222-17-r2wgts.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip");
 }
